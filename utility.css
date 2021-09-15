@@ -1,0 +1,48 @@
+.flex {
+    display: flex;
+}
+
+.centerv {
+    align-items: center;
+}
+
+.spacebw {
+    justify-content: space-between;
+}
+
+button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 16px;
+    background-color: #111827;
+    color: #FFFFFF;
+    border-radius: 3px;
+    border: none;
+    font-family: SF Pro Text;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.card_span {
+    font-family: SF Pro Text;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    color: #2F3941;
+}
+
+.card_p {
+    font-family: SF Pro Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #49545C;
+}
+
+
