@@ -182,7 +182,7 @@
 .main .left .data h1 span {
     color: transparent;
     background: linear-gradient(135deg, #B16CEA 33.85%, #FF5E69 55.21%, #FF8A56 78.12%, #FFA84B 100%);
-    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 .main .left .data p {
@@ -377,7 +377,7 @@ section {
     text-transform: uppercase;
     background: linear-gradient(135deg, #B16CEA 33.85%, #FF5E69 55.21%, #FF8A56 78.12%, #FFA84B 100%);
     color: transparent;
-    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 .section2 .section_container .container .sec .header p {
@@ -731,7 +731,7 @@ section {
     text-align: center;
     color: transparent;
     background: linear-gradient(135deg, #B16CEA 33.85%, #FF5E69 55.21%, #FF8A56 78.12%, #FFA84B 100%);
-    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 /* section3 */
